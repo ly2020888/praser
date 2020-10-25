@@ -1,0 +1,11 @@
+﻿  文法2.cpp
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(35,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(114,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(133,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(142,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(149,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(158,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(140): warning C4715: “praser::g2”: 不是所有的控件路径都返回值
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(125): warning C4715: “praser::g1”: 不是所有的控件路径都返回值
+C:\Users\Administrator\homework\编译原理\代码\文法2\praser.h(147): warning C4715: “praser::g3”: 不是所有的控件路径都返回值
+  文法2.vcxproj -> C:\Users\Administrator\homework\编译原理\代码\文法2\Debug\文法2.exe

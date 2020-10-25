@@ -1,0 +1,2 @@
+C:\Users\Administrator\homework\编译原理\代码\文法2\Debug\文法2.exe
+C:\Users\Administrator\homework\编译原理\代码\文法2\Debug\文法2.pdb
